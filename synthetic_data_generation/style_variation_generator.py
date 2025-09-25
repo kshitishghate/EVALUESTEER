@@ -5,8 +5,7 @@ import time
 from typing import Dict, List, Tuple, Optional
 from openai import OpenAI
 
-# Initialize OpenAI client
-# You can also set OPENAI_API_KEY environment variable instead of hardcoding
+
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 # Style families and their prompts - each family generates contrasting pairs
 STYLE_FAMILY_PROMPTS = {
