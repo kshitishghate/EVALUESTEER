@@ -473,14 +473,14 @@ def get_style_families_to_generate():
 def main():
     """Main function to run the paired style variation process."""
     
-    input_file = "prism_wvs_generated_data_v2.json"
+    input_file = "prism_wvs_generated_data.json"
     
     # Get style families to generate
     style_families = get_style_families_to_generate()
     
     # Create output filename based on selected families
     if len(style_families) == 5:  # All families
-        output_file = "prism_wvs_generated_data_v2_with_style_variations_v2.json"
+        output_file = "prism_wvs_generated_data_with_style_variations.json"
     else:
         # Create a descriptive filename for partial generation
         family_codes = {
