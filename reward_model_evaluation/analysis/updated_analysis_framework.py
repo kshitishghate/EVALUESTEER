@@ -711,7 +711,7 @@ class UpdatedAnalysisFramework:
         """Load user_profile_000 with WVS responses for reference"""
         try:
             # Load user profile combinations
-            user_profiles_path = '../../synthetic_data_generation_v2/user_profile_combinations_v3.json'
+            user_profiles_path = '../../synthetic_data_generation/user_profile_combinations.json'
             wvs_data_path = '../../indievalue/IndieValue/demographics_in_nl_statements_combined_full_set.jsonl'
             
             with open(user_profiles_path, 'r') as f:
@@ -4476,7 +4476,7 @@ def main():
     """Main execution function"""
     import argparse
     
-    parser = argparse.ArgumentParser(description="Updated Analysis Framework for Pluralistic Alignment Evaluation v3")
+    parser = argparse.ArgumentParser(description="Updated Analysis Framework for Pluralistic Alignment Evaluation ")
     parser.add_argument("--gpt4_file", type=str, 
                        default="gpt-4.1-mini_evaluation_results_0719_all_settings.json",
                        help="Path to GPT-4 evaluation results")
