@@ -374,7 +374,7 @@ def generate_compact_dataset(user_profile_combinations, synthetic_data, response
 
 def main():
     print("="*80)
-    print("ENHANCED USER PREFERENCE DATA GENERATION V3")
+    print("ENHANCED USER PREFERENCE DATA GENERATION ")
     print("="*80)
     print("Features:")
     print("- Uses 18 distinct value profiles from WVS data")
@@ -408,7 +408,7 @@ def main():
     
     # Save user profile combinations
     print(f"\nSaving user profile combinations...")
-    with open('user_profile_combinations_v3.json', 'w', encoding='utf-8') as f:
+    with open('user_profile_combinations_.json', 'w', encoding='utf-8') as f:
         json.dump({
             'statistics': stats,
             'user_profiles': user_profile_combinations
@@ -436,7 +436,7 @@ def main():
     print(f"Loaded metadata for {len(metadata_df)} questions")
     
     # Load the synthetic data with style variations (including readability)
-    synthetic_file = 'prism_wvs_generated_data_v2_with_style_variations_v2.json'
+    synthetic_file = 'prism_wvs_generated_data_with_style_variations.json'
     if not os.path.exists(synthetic_file):
         print(f"Error: Synthetic data file {synthetic_file} not found.")
         print("Please ensure you have generated style variations including readability.")
@@ -492,7 +492,7 @@ def main():
         print(f"  {quadrant}: {count}")
     
     # Save preference dataset
-    output_file = f"user_preference_dataset_v3_{output_suffix}.json"
+    output_file = f"user_preference_dataset__{output_suffix}.json"
     print(f"\nSaving user preference dataset to {output_file}...")
     
     with open(output_file, 'w', encoding="utf-8") as f:
@@ -500,7 +500,7 @@ def main():
     
     print("User preference dataset generation complete!")
     print(f"Output files:")
-    print(f"  - User profiles: user_profile_combinations_v3.json")
+    print(f"  - User profiles: user_profile_combinations_.json")
     print(f"  - Preference dataset: {output_file}")
 
 if __name__ == "__main__":
