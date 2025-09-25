@@ -30,9 +30,9 @@ class DataManagerV3:
             
         # Data file paths
         self.data_paths = {
-            'user_profiles_v3': self.base_path / "synthetic_data_generation_v2/user_profile_combinations_v3.json",
-            'distinct_value_profiles': self.base_path / "synthetic_data_generation_v2/wvs_user_profile_generation/distinct_value_profiles.json",
-            'synthetic_data': self.base_path / "synthetic_data_generation_v2/prism_wvs_generated_data_v2_with_style_variations_v2.json",
+            'user_profiles_v3': self.base_path / "synthetic_data_generation/user_profile_combinations.json",
+            'distinct_value_profiles': self.base_path / "synthetic_data_generation/wvs_user_profile_generation/distinct_value_profiles.json",
+            'synthetic_data': self.base_path / "synthetic_data_generation/prism_wvs_generated_data_with_style_variations.json",
             'wvs_human_data': self.base_path / "indievalue/IndieValue/demographics_in_nl_statements_combined_full_set.jsonl",
             'question_metadata': self.base_path / "indievalue/data/meta_data/statements_meta_data.jsonl"
         }
