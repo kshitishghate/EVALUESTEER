@@ -1,0 +1,749 @@
+{
+  "summary": {
+    "total_profiles": 18,
+    "profiles_per_quadrant": {
+      "Traditional-Survival": 5,
+      "Traditional-Self-Expression": 5,
+      "Secular-Survival": 4,
+      "Secular-Self-Expression": 4
+    },
+    "diversity_statistics": {
+      "mean_diversity": 2.4680373450585615,
+      "median_diversity": 2.464790489970802,
+      "max_diversity": 2.574520407004425,
+      "min_diversity": 2.384893689537699
+    },
+    "unique_combinations": [
+      {
+        "quadrant": "Traditional-Survival",
+        "combination": "Religious + Materialist",
+        "traditional_secular": "Religious",
+        "survival_expression": "Materialist"
+      },
+      {
+        "quadrant": "Traditional-Survival",
+        "combination": "Anti-autonomy + Pessimistic",
+        "traditional_secular": "Anti-autonomy",
+        "survival_expression": "Pessimistic"
+      },
+      {
+        "quadrant": "Traditional-Survival",
+        "combination": "Pro-life + Socially conservative",
+        "traditional_secular": "Pro-life",
+        "survival_expression": "Socially conservative"
+      },
+      {
+        "quadrant": "Traditional-Survival",
+        "combination": "Patriotic + Politically disengaged",
+        "traditional_secular": "Patriotic",
+        "survival_expression": "Politically disengaged"
+      },
+      {
+        "quadrant": "Traditional-Survival",
+        "combination": "Authority-respecting + Suspicious",
+        "traditional_secular": "Authority-respecting",
+        "survival_expression": "Suspicious"
+      },
+      {
+        "quadrant": "Traditional-Self-Expression",
+        "combination": "Religious + Post-materialist",
+        "traditional_secular": "Religious",
+        "survival_expression": "Post-materialist"
+      },
+      {
+        "quadrant": "Traditional-Self-Expression",
+        "combination": "Anti-autonomy + Optimistic",
+        "traditional_secular": "Anti-autonomy",
+        "survival_expression": "Optimistic"
+      },
+      {
+        "quadrant": "Traditional-Self-Expression",
+        "combination": "Pro-life + Socially liberal",
+        "traditional_secular": "Pro-life",
+        "survival_expression": "Socially liberal"
+      },
+      {
+        "quadrant": "Traditional-Self-Expression",
+        "combination": "Patriotic + Politically engaged",
+        "traditional_secular": "Patriotic",
+        "survival_expression": "Politically engaged"
+      },
+      {
+        "quadrant": "Traditional-Self-Expression",
+        "combination": "Authority-respecting + Trusting",
+        "traditional_secular": "Authority-respecting",
+        "survival_expression": "Trusting"
+      },
+      {
+        "quadrant": "Secular-Survival",
+        "combination": "Secular + Materialist",
+        "traditional_secular": "Secular",
+        "survival_expression": "Materialist"
+      },
+      {
+        "quadrant": "Secular-Survival",
+        "combination": "Pro-autonomy + Pessimistic",
+        "traditional_secular": "Pro-autonomy",
+        "survival_expression": "Pessimistic"
+      },
+      {
+        "quadrant": "Secular-Survival",
+        "combination": "Pro-choice + Socially conservative",
+        "traditional_secular": "Pro-choice",
+        "survival_expression": "Socially conservative"
+      },
+      {
+        "quadrant": "Secular-Survival",
+        "combination": "Cosmopolitan + Politically disengaged",
+        "traditional_secular": "Cosmopolitan",
+        "survival_expression": "Politically disengaged"
+      },
+      {
+        "quadrant": "Secular-Self-Expression",
+        "combination": "Secular + Post-materialist",
+        "traditional_secular": "Secular",
+        "survival_expression": "Post-materialist"
+      },
+      {
+        "quadrant": "Secular-Self-Expression",
+        "combination": "Pro-autonomy + Optimistic",
+        "traditional_secular": "Pro-autonomy",
+        "survival_expression": "Optimistic"
+      },
+      {
+        "quadrant": "Secular-Self-Expression",
+        "combination": "Pro-choice + Socially liberal",
+        "traditional_secular": "Pro-choice",
+        "survival_expression": "Socially liberal"
+      },
+      {
+        "quadrant": "Secular-Self-Expression",
+        "combination": "Cosmopolitan + Politically engaged",
+        "traditional_secular": "Cosmopolitan",
+        "survival_expression": "Politically engaged"
+      }
+    ]
+  },
+  "distinct_profiles": {
+    "Traditional-Survival": [
+      {
+        "user_id": 231070731,
+        "quadrant": "Traditional-Survival",
+        "diversity_score": 2.527669126108989,
+        "primary_traditional_secular_item": "high_god_importance",
+        "primary_traditional_secular_label": "Religious",
+        "primary_traditional_secular_description": "High religious importance",
+        "primary_survival_expression_item": "materialist_priorities",
+        "primary_survival_expression_label": "Materialist",
+        "primary_survival_expression_description": "Prioritizes economic growth and defense",
+        "profile_label": "Religious + Materialist",
+        "demographics": {
+          "gender": "I am a female",
+          "age": "I am 25-34 years old",
+          "country": "I am currently in Ethiopia",
+          "education": "The highest educational level that I have attained is early childhood education or no education"
+        },
+        "key_responses": {
+          "Q164_aid": 10,
+          "Q17_aid": 1,
+          "Q15_aid": 2,
+          "Q8_aid": 2,
+          "Q14_aid": 2,
+          "Q184_aid": 1,
+          "Q254_aid": 1,
+          "Q45_aid": 3,
+          "Q152_aid": 2,
+          "Q153_aid": 1,
+          "Q46_aid": 2,
+          "Q182_aid": 1,
+          "Q209_aid": 2,
+          "Q57_aid": 2
+        }
+      },
+      {
+        "user_id": 50070287,
+        "quadrant": "Traditional-Survival",
+        "diversity_score": 2.4517032474704727,
+        "primary_traditional_secular_item": "anti_autonomy_children",
+        "primary_traditional_secular_label": "Anti-autonomy",
+        "primary_traditional_secular_description": "Values obedience/faith over independence/determination in children",
+        "primary_survival_expression_item": "low_happiness",
+        "primary_survival_expression_label": "Pessimistic",
+        "primary_survival_expression_description": "Reports lower happiness",
+        "profile_label": "Anti-autonomy + Pessimistic",
+        "demographics": {
+          "gender": "I am a female",
+          "age": "I am 25-34 years old",
+          "country": "I am currently in Bangladesh",
+          "education": "The highest educational level that I have attained is early childhood education or no education"
+        },
+        "key_responses": {
+          "Q164_aid": 9,
+          "Q17_aid": 2,
+          "Q15_aid": 1,
+          "Q8_aid": 2,
+          "Q14_aid": 2,
+          "Q184_aid": 6,
+          "Q254_aid": 2,
+          "Q45_aid": 2,
+          "Q152_aid": 1,
+          "Q153_aid": 4,
+          "Q46_aid": 3,
+          "Q182_aid": 1,
+          "Q209_aid": 3,
+          "Q57_aid": 2
+        }
+      },
+      {
+        "user_id": 231070730,
+        "quadrant": "Traditional-Survival",
+        "diversity_score": 2.504247836935208,
+        "primary_traditional_secular_item": "low_abortion_tolerance",
+        "primary_traditional_secular_label": "Pro-life",
+        "primary_traditional_secular_description": "Opposes abortion",
+        "primary_survival_expression_item": "low_homosexuality_tolerance",
+        "primary_survival_expression_label": "Socially conservative",
+        "primary_survival_expression_description": "Opposes homosexuality",
+        "profile_label": "Pro-life + Socially conservative",
+        "demographics": {
+          "gender": "I am a male",
+          "age": "I am 65+ years old",
+          "country": "I am currently in Ethiopia",
+          "education": "The highest educational level that I have attained is early childhood education or no education"
+        },
+        "key_responses": {
+          "Q164_aid": 10,
+          "Q17_aid": 1,
+          "Q15_aid": 2,
+          "Q8_aid": 2,
+          "Q14_aid": 2,
+          "Q184_aid": 1,
+          "Q254_aid": 1,
+          "Q45_aid": 3,
+          "Q152_aid": 4,
+          "Q153_aid": 1,
+          "Q46_aid": 2,
+          "Q182_aid": 1,
+          "Q209_aid": 2,
+          "Q57_aid": 2
+        }
+      },
+      {
+        "user_id": 417070272,
+        "quadrant": "Traditional-Survival",
+        "diversity_score": 2.488490775654318,
+        "primary_traditional_secular_item": "high_national_pride",
+        "primary_traditional_secular_label": "Patriotic",
+        "primary_traditional_secular_description": "Very proud of country",
+        "primary_survival_expression_item": "low_political_participation",
+        "primary_survival_expression_label": "Politically disengaged",
+        "primary_survival_expression_description": "Avoids political participation",
+        "profile_label": "Patriotic + Politically disengaged",
+        "demographics": {
+          "gender": "I am a male",
+          "age": "I am 16-24 years old",
+          "country": "I am currently in Kyrgyzstan",
+          "education": "The highest educational level that I have attained is upper secondary education"
+        },
+        "key_responses": {
+          "Q164_aid": 10,
+          "Q17_aid": 1,
+          "Q15_aid": 2,
+          "Q8_aid": 2,
+          "Q14_aid": 2,
+          "Q184_aid": 1,
+          "Q254_aid": 1,
+          "Q45_aid": 1,
+          "Q152_aid": 3,
+          "Q153_aid": 2,
+          "Q46_aid": 1,
+          "Q182_aid": 1,
+          "Q209_aid": 3,
+          "Q57_aid": 2
+        }
+      },
+      {
+        "user_id": 586070076,
+        "quadrant": "Traditional-Survival",
+        "diversity_score": 2.4717144127611705,
+        "primary_traditional_secular_item": "respect_authority",
+        "primary_traditional_secular_label": "Authority-respecting",
+        "primary_traditional_secular_description": "Strongly respects authority",
+        "primary_survival_expression_item": "low_interpersonal_trust",
+        "primary_survival_expression_label": "Suspicious",
+        "primary_survival_expression_description": "Distrusts others",
+        "profile_label": "Authority-respecting + Suspicious",
+        "demographics": {
+          "gender": "I am a female",
+          "age": "I am 35-44 years old",
+          "country": "I am currently in Pakistan",
+          "education": "The highest educational level that I have attained is lower secondary education"
+        },
+        "key_responses": {
+          "Q164_aid": 10,
+          "Q17_aid": 2,
+          "Q15_aid": 1,
+          "Q8_aid": 2,
+          "Q14_aid": 1,
+          "Q184_aid": 1,
+          "Q254_aid": 1,
+          "Q45_aid": 2,
+          "Q152_aid": 2,
+          "Q153_aid": 4,
+          "Q46_aid": 2,
+          "Q182_aid": 1,
+          "Q209_aid": 3,
+          "Q57_aid": 1
+        }
+      }
+    ],
+    "Traditional-Self-Expression": [
+      {
+        "user_id": 276070294,
+        "quadrant": "Traditional-Self-Expression",
+        "diversity_score": 2.5463253919556026,
+        "primary_traditional_secular_item": "high_god_importance",
+        "primary_traditional_secular_label": "Religious",
+        "primary_traditional_secular_description": "High religious importance",
+        "primary_survival_expression_item": "postmaterialist_priorities",
+        "primary_survival_expression_label": "Post-materialist",
+        "primary_survival_expression_description": "Prioritizes participation and beauty",
+        "profile_label": "Religious + Post-materialist",
+        "demographics": {
+          "gender": "I am a female",
+          "age": "I am 45-54 years old",
+          "country": "I am currently in Germany",
+          "education": "The highest educational level that I have attained is upper secondary education"
+        },
+        "key_responses": {
+          "Q164_aid": 9,
+          "Q17_aid": 2,
+          "Q15_aid": 1,
+          "Q8_aid": 1,
+          "Q14_aid": 2,
+          "Q184_aid": 2,
+          "Q254_aid": 1,
+          "Q45_aid": 1,
+          "Q152_aid": 4,
+          "Q153_aid": 2,
+          "Q46_aid": 2,
+          "Q182_aid": 10,
+          "Q209_aid": 3,
+          "Q57_aid": 2
+        }
+      },
+      {
+        "user_id": 76071166,
+        "quadrant": "Traditional-Self-Expression",
+        "diversity_score": 2.4417478172576694,
+        "primary_traditional_secular_item": "anti_autonomy_children",
+        "primary_traditional_secular_label": "Anti-autonomy",
+        "primary_traditional_secular_description": "Values obedience/faith over independence/determination in children",
+        "primary_survival_expression_item": "high_happiness",
+        "primary_survival_expression_label": "Optimistic",
+        "primary_survival_expression_description": "Reports higher happiness",
+        "profile_label": "Anti-autonomy + Optimistic",
+        "demographics": {
+          "gender": "I am a female",
+          "age": "I am 35-44 years old",
+          "country": "I am currently in Brazil",
+          "education": "The highest educational level that I have attained is lower secondary education"
+        },
+        "key_responses": {
+          "Q164_aid": 10,
+          "Q17_aid": 1,
+          "Q15_aid": 1,
+          "Q8_aid": 2,
+          "Q14_aid": 2,
+          "Q184_aid": 1,
+          "Q254_aid": 2,
+          "Q45_aid": 1,
+          "Q152_aid": 1,
+          "Q153_aid": 3,
+          "Q46_aid": 2,
+          "Q182_aid": 9,
+          "Q209_aid": 1,
+          "Q57_aid": 2
+        }
+      },
+      {
+        "user_id": 604071286,
+        "quadrant": "Traditional-Self-Expression",
+        "diversity_score": 2.4324225378446385,
+        "primary_traditional_secular_item": "low_abortion_tolerance",
+        "primary_traditional_secular_label": "Pro-life",
+        "primary_traditional_secular_description": "Opposes abortion",
+        "primary_survival_expression_item": "high_homosexuality_tolerance",
+        "primary_survival_expression_label": "Socially liberal",
+        "primary_survival_expression_description": "Supports homosexuality rights",
+        "profile_label": "Pro-life + Socially liberal",
+        "demographics": {
+          "gender": "I am a male",
+          "age": "I am 55-64 years old",
+          "country": "I am currently in Peru",
+          "education": "The highest educational level that I have attained is upper secondary education"
+        },
+        "key_responses": {
+          "Q164_aid": 10,
+          "Q17_aid": 2,
+          "Q15_aid": 2,
+          "Q8_aid": 1,
+          "Q14_aid": 2,
+          "Q184_aid": 1,
+          "Q254_aid": 1,
+          "Q45_aid": 1,
+          "Q152_aid": 1,
+          "Q153_aid": 4,
+          "Q46_aid": 1,
+          "Q182_aid": 9,
+          "Q209_aid": 3,
+          "Q57_aid": 2
+        }
+      },
+      {
+        "user_id": 804070979,
+        "quadrant": "Traditional-Self-Expression",
+        "diversity_score": 2.393432685007453,
+        "primary_traditional_secular_item": "high_national_pride",
+        "primary_traditional_secular_label": "Patriotic",
+        "primary_traditional_secular_description": "Very proud of country",
+        "primary_survival_expression_item": "high_political_participation",
+        "primary_survival_expression_label": "Politically engaged",
+        "primary_survival_expression_description": "Engages in political participation",
+        "profile_label": "Patriotic + Politically engaged",
+        "demographics": {
+          "gender": "I am a female",
+          "age": "I am 65+ years old",
+          "country": "I am currently in Ukraine",
+          "education": "The highest educational level that I have attained is short-cycle tertiary education"
+        },
+        "key_responses": {
+          "Q164_aid": 10,
+          "Q17_aid": 1,
+          "Q15_aid": 1,
+          "Q8_aid": 2,
+          "Q14_aid": 2,
+          "Q184_aid": 2,
+          "Q254_aid": 1,
+          "Q45_aid": 2,
+          "Q152_aid": 3,
+          "Q153_aid": 2,
+          "Q46_aid": 1,
+          "Q182_aid": 3,
+          "Q209_aid": 1,
+          "Q57_aid": 2
+        }
+      },
+      {
+        "user_id": 704070675,
+        "quadrant": "Traditional-Self-Expression",
+        "diversity_score": 2.4177734054822206,
+        "primary_traditional_secular_item": "respect_authority",
+        "primary_traditional_secular_label": "Authority-respecting",
+        "primary_traditional_secular_description": "Strongly respects authority",
+        "primary_survival_expression_item": "high_interpersonal_trust",
+        "primary_survival_expression_label": "Trusting",
+        "primary_survival_expression_description": "Trusts others",
+        "profile_label": "Authority-respecting + Trusting",
+        "demographics": {
+          "gender": "I am a male",
+          "age": "I am 65+ years old",
+          "country": "I am currently in Vietnam",
+          "education": "The highest educational level that I have attained is upper secondary education"
+        },
+        "key_responses": {
+          "Q164_aid": 7,
+          "Q17_aid": 1,
+          "Q15_aid": 2,
+          "Q8_aid": 2,
+          "Q14_aid": 2,
+          "Q184_aid": 6,
+          "Q254_aid": 1,
+          "Q45_aid": 1,
+          "Q152_aid": 1,
+          "Q153_aid": 2,
+          "Q46_aid": 1,
+          "Q182_aid": 6,
+          "Q209_aid": 3,
+          "Q57_aid": 2
+        }
+      }
+    ],
+    "Secular-Survival": [
+      {
+        "user_id": 764070917,
+        "quadrant": "Secular-Survival",
+        "diversity_score": 2.4722215496657465,
+        "primary_traditional_secular_item": "low_god_importance",
+        "primary_traditional_secular_label": "Secular",
+        "primary_traditional_secular_description": "Low religious importance",
+        "primary_survival_expression_item": "materialist_priorities",
+        "primary_survival_expression_label": "Materialist",
+        "primary_survival_expression_description": "Prioritizes economic growth and defense",
+        "profile_label": "Secular + Materialist",
+        "demographics": {
+          "gender": "I am a female",
+          "age": "I am 35-44 years old",
+          "country": "I am currently in Thailand",
+          "education": "The highest educational level that I have attained is early childhood education or no education"
+        },
+        "key_responses": {
+          "Q164_aid": 1,
+          "Q17_aid": 2,
+          "Q15_aid": 2,
+          "Q8_aid": 2,
+          "Q14_aid": 1,
+          "Q184_aid": 1,
+          "Q254_aid": 1,
+          "Q45_aid": 3,
+          "Q152_aid": 4,
+          "Q153_aid": 1,
+          "Q46_aid": 2,
+          "Q182_aid": 1,
+          "Q209_aid": 3,
+          "Q57_aid": 2
+        }
+      },
+      {
+        "user_id": 702071270,
+        "quadrant": "Secular-Survival",
+        "diversity_score": 2.4301468276077354,
+        "primary_traditional_secular_item": "pro_autonomy_children",
+        "primary_traditional_secular_label": "Pro-autonomy",
+        "primary_traditional_secular_description": "Values independence/determination over obedience/faith in children",
+        "primary_survival_expression_item": "low_happiness",
+        "primary_survival_expression_label": "Pessimistic",
+        "primary_survival_expression_description": "Reports lower happiness",
+        "profile_label": "Pro-autonomy + Pessimistic",
+        "demographics": {
+          "gender": "I am a female",
+          "age": "I am 65+ years old",
+          "country": "I am currently in Singapore",
+          "education": "The highest educational level that I have attained is early childhood education or no education"
+        },
+        "key_responses": {
+          "Q164_aid": 6,
+          "Q17_aid": 2,
+          "Q15_aid": 2,
+          "Q8_aid": 2,
+          "Q14_aid": 1,
+          "Q184_aid": 2,
+          "Q254_aid": 1,
+          "Q45_aid": 1,
+          "Q152_aid": 2,
+          "Q153_aid": 4,
+          "Q46_aid": 3,
+          "Q182_aid": 5,
+          "Q209_aid": 3,
+          "Q57_aid": 2
+        }
+      },
+      {
+        "user_id": 398070570,
+        "quadrant": "Secular-Survival",
+        "diversity_score": 2.444917022001088,
+        "primary_traditional_secular_item": "high_abortion_tolerance",
+        "primary_traditional_secular_label": "Pro-choice",
+        "primary_traditional_secular_description": "Supports abortion rights",
+        "primary_survival_expression_item": "low_homosexuality_tolerance",
+        "primary_survival_expression_label": "Socially conservative",
+        "primary_survival_expression_description": "Opposes homosexuality",
+        "profile_label": "Pro-choice + Socially conservative",
+        "demographics": {
+          "gender": "I am a female",
+          "age": "I am 25-34 years old",
+          "country": "I am currently in Kazakhstan",
+          "education": "The highest educational level that I have attained is short-cycle tertiary education"
+        },
+        "key_responses": {
+          "Q164_aid": 5,
+          "Q17_aid": 2,
+          "Q15_aid": 2,
+          "Q8_aid": 1,
+          "Q14_aid": 2,
+          "Q184_aid": 10,
+          "Q254_aid": 2,
+          "Q45_aid": 1,
+          "Q152_aid": 1,
+          "Q153_aid": 2,
+          "Q46_aid": 2,
+          "Q182_aid": 1,
+          "Q209_aid": 3,
+          "Q57_aid": 2
+        }
+      },
+      {
+        "user_id": 20070853,
+        "quadrant": "Secular-Survival",
+        "diversity_score": 2.4578665671804334,
+        "primary_traditional_secular_item": "low_national_pride",
+        "primary_traditional_secular_label": "Cosmopolitan",
+        "primary_traditional_secular_description": "Not very proud of country",
+        "primary_survival_expression_item": "low_political_participation",
+        "primary_survival_expression_label": "Politically disengaged",
+        "primary_survival_expression_description": "Avoids political participation",
+        "profile_label": "Cosmopolitan + Politically disengaged",
+        "demographics": {
+          "gender": "I am a male",
+          "age": "I am 55-64 years old",
+          "country": "I am currently in Andorra",
+          "education": "The highest educational level that I have attained is lower secondary education"
+        },
+        "key_responses": {
+          "Q164_aid": 10,
+          "Q17_aid": 2,
+          "Q15_aid": 1,
+          "Q8_aid": 2,
+          "Q14_aid": 1,
+          "Q184_aid": 6,
+          "Q254_aid": 5,
+          "Q45_aid": 1,
+          "Q152_aid": 3,
+          "Q153_aid": 4,
+          "Q46_aid": 2,
+          "Q182_aid": 1,
+          "Q209_aid": 3,
+          "Q57_aid": 2
+        }
+      }
+    ],
+    "Secular-Self-Expression": [
+      {
+        "user_id": 344070264,
+        "quadrant": "Secular-Self-Expression",
+        "diversity_score": 2.5087609065566996,
+        "primary_traditional_secular_item": "low_god_importance",
+        "primary_traditional_secular_label": "Secular",
+        "primary_traditional_secular_description": "Low religious importance",
+        "primary_survival_expression_item": "postmaterialist_priorities",
+        "primary_survival_expression_label": "Post-materialist",
+        "primary_survival_expression_description": "Prioritizes participation and beauty",
+        "profile_label": "Secular + Post-materialist",
+        "demographics": {
+          "gender": "I am a female",
+          "age": "I am 55-64 years old",
+          "country": "I am currently in Hong Kong SAR",
+          "education": "The highest educational level that I have attained is primary education"
+        },
+        "key_responses": {
+          "Q164_aid": 1,
+          "Q17_aid": 2,
+          "Q15_aid": 2,
+          "Q8_aid": 2,
+          "Q14_aid": 2,
+          "Q184_aid": 5,
+          "Q254_aid": 2,
+          "Q45_aid": 2,
+          "Q152_aid": 1,
+          "Q153_aid": 4,
+          "Q46_aid": 2,
+          "Q182_aid": 5,
+          "Q209_aid": 3,
+          "Q57_aid": 2
+        }
+      },
+      {
+        "user_id": 36070892,
+        "quadrant": "Secular-Self-Expression",
+        "diversity_score": 2.574520407004425,
+        "primary_traditional_secular_item": "pro_autonomy_children",
+        "primary_traditional_secular_label": "Pro-autonomy",
+        "primary_traditional_secular_description": "Values independence/determination over obedience/faith in children",
+        "primary_survival_expression_item": "high_happiness",
+        "primary_survival_expression_label": "Optimistic",
+        "primary_survival_expression_description": "Reports higher happiness",
+        "profile_label": "Pro-autonomy + Optimistic",
+        "demographics": {
+          "gender": "I am a male",
+          "age": "I am 55-64 years old",
+          "country": "I am currently in Australia",
+          "education": "The highest educational level that I have attained is upper secondary education"
+        },
+        "key_responses": {
+          "Q164_aid": 5,
+          "Q17_aid": 1,
+          "Q15_aid": 2,
+          "Q8_aid": 1,
+          "Q14_aid": 2,
+          "Q184_aid": 4,
+          "Q254_aid": 1,
+          "Q45_aid": 1,
+          "Q152_aid": 3,
+          "Q153_aid": 1,
+          "Q46_aid": 2,
+          "Q182_aid": 5,
+          "Q209_aid": 1,
+          "Q57_aid": 2
+        }
+      },
+      {
+        "user_id": 764071000,
+        "quadrant": "Secular-Self-Expression",
+        "diversity_score": 2.4758180050225427,
+        "primary_traditional_secular_item": "high_abortion_tolerance",
+        "primary_traditional_secular_label": "Pro-choice",
+        "primary_traditional_secular_description": "Supports abortion rights",
+        "primary_survival_expression_item": "high_homosexuality_tolerance",
+        "primary_survival_expression_label": "Socially liberal",
+        "primary_survival_expression_description": "Supports homosexuality rights",
+        "profile_label": "Pro-choice + Socially liberal",
+        "demographics": {
+          "gender": "I am a female",
+          "age": "I am 25-34 years old",
+          "country": "I am currently in Thailand",
+          "education": "The highest educational level that I have attained is lower secondary education"
+        },
+        "key_responses": {
+          "Q164_aid": 5,
+          "Q17_aid": 2,
+          "Q15_aid": 2,
+          "Q8_aid": 2,
+          "Q14_aid": 2,
+          "Q184_aid": 10,
+          "Q254_aid": 1,
+          "Q45_aid": 2,
+          "Q152_aid": 1,
+          "Q153_aid": 3,
+          "Q46_aid": 1,
+          "Q182_aid": 10,
+          "Q209_aid": 3,
+          "Q57_aid": 2
+        }
+      },
+      {
+        "user_id": 20070451,
+        "quadrant": "Secular-Self-Expression",
+        "diversity_score": 2.384893689537699,
+        "primary_traditional_secular_item": "low_national_pride",
+        "primary_traditional_secular_label": "Cosmopolitan",
+        "primary_traditional_secular_description": "Not very proud of country",
+        "primary_survival_expression_item": "high_political_participation",
+        "primary_survival_expression_label": "Politically engaged",
+        "primary_survival_expression_description": "Engages in political participation",
+        "profile_label": "Cosmopolitan + Politically engaged",
+        "demographics": {
+          "gender": "I am a female",
+          "age": "I am 55-64 years old",
+          "country": "I am currently in Andorra",
+          "education": "The highest educational level that I have attained is lower secondary education"
+        },
+        "key_responses": {
+          "Q164_aid": 8,
+          "Q17_aid": 1,
+          "Q15_aid": 2,
+          "Q8_aid": 1,
+          "Q14_aid": 1,
+          "Q184_aid": 7,
+          "Q254_aid": 5,
+          "Q45_aid": 2,
+          "Q152_aid": 1,
+          "Q153_aid": 3,
+          "Q46_aid": 2,
+          "Q182_aid": 5,
+          "Q209_aid": 1,
+          "Q57_aid": 2
+        }
+      }
+    ]
+  }
+}
